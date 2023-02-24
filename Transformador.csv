@@ -1,4 +1,0 @@
-Transformador,Impedancia_percentual,Impedancia_aterramento_primario,Impedancia_aterramento_secundario,Tensao primario,Tensao secundario,Potencia,Tipo_de_conexao,Conexao_primario,Conexao_secundario
-1,5.76,0,0,16500,230000,1.00E+08,YaYa,1,4
-2,12.5,0+0.1j,0,18000,230000,2.00E+08,YaYad,2,7
-3,7.032,0,0,13800,230000,1.20E+08,YaD,3,9
