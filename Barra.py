@@ -2,7 +2,7 @@ import csv
 
 potencia_Base = 1E+8
 
-with open('C:/Users/guilh/OneDrive/Documentos/Python/Barra.csv','r') as barra:
+with open('../Analise_curto_circuito/Barra.csv','r') as barra:
 
     csvreader_barra = csv.DictReader(barra)
 

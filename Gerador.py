@@ -1,7 +1,7 @@
 import csv
 
 
-with open('C:/Users/guilh/OneDrive/Documentos/Python/Gerador.csv','r') as gerador:
+with open('Gerador.csv','r') as gerador:
 
     csvreader_gerador = csv.DictReader(gerador)
 

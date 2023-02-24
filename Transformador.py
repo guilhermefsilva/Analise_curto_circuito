@@ -1,6 +1,6 @@
 import csv
 
-with open('C:/Users/guilh/OneDrive/Documentos/Python/Transformador.csv','r') as transformador:
+with open('Transformador.csv','r') as transformador:
 
     csvreader_transformador = csv.DictReader(transformador)
 

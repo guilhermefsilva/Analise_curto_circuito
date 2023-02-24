@@ -1,7 +1,7 @@
 import csv
 from Barra import *
 
-with open('C:/Users/guilh/OneDrive/Documentos/Python/Linha.csv','r') as linha:
+with open('Linha.csv','r') as linha:
 
     csvreader_linha = csv.DictReader(linha)
 
